@@ -6,7 +6,8 @@ body {
 
 header {
   height: 80px;
-  background-color: cadetblue;
+  /* background-color: cadetblue; */
+  background-color: #465672;
   margin-top: 0;
   padding-top: 25px;
 }
@@ -20,6 +21,7 @@ h1 {
 p {
   margin: 4rem 8rem;
   font-style: italic;
+  color: #465672;
 }
 
 .demo-container {
