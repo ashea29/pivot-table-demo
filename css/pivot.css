@@ -16,7 +16,8 @@
 
 .options {
   padding: 20px;
-  background-color: rgba(191, 191, 191, 0.15);
+  background-color: rgba(70, 86, 114, 0.8);
+  color: #fff;
   position: absolute;
   top: 29px;
   bottom: 3px;
